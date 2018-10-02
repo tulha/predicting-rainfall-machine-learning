@@ -1,0 +1,15 @@
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Cloud_water_entire_atmosphere_single_layer[0]=0.38 kg.m-2
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Haines_index_surface[0]=3 (no units)
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Precipitable_water_entire_atmosphere_single_layer[0]=45.3 kg.m-2
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Pressure_maximum_wind[0]=20099.8 Pa
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Pressure_surface[0]=101758 Pa
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Relative_humidity_entire_atmosphere_single_layer[0]=65 %
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Temperature_maximum_wind[0]=216.3 K
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Temperature_surface[0]=293.4 K
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Total_cloud_cover_convective_cloud[0]=20 %
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 Total_ozone_entire_atmosphere_single_layer[0]=252.8 DU
+lat[0]=28.5 degrees_north
+lon[0]=278.5 degrees_east
+time1[0]=3 Hour since 2014-12-30T18:00:00Z
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 u-component_of_wind_maximum_wind[0]=54 m/s
+time1[0]=3 lat[0]=28.5 lon[0]=278.5 v-component_of_wind_maximum_wind[0]=1.6 m/s
